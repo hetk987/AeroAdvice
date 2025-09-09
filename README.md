@@ -170,39 +170,6 @@ const openai = new OpenAI({
 
 ![Mobile View](./docs/images/mobile.png)
 
-## 🤝 Contributing
-
-We welcome contributions to AeroAdvice! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🔮 Future Enhancements
-
-- [ ] Real-time flight price tracking
-- [ ] Hotel booking integration
-- [ ] Social sharing of travel plans
-- [ ] Offline mode support
-- [ ] Multi-language support
-- [ ] Travel budget tracking
-- [ ] Weather integration
-- [ ] Reviews and ratings system
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-- Create an issue in this repository
-- Contact us at [your-email@example.com]
-- Check our [documentation](./docs/)
-
 ## 🙏 Acknowledgments
 
 - OpenAI for providing the GPT-3.5 API
