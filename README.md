@@ -17,19 +17,6 @@ AeroAdvice is an intelligent travel planning platform that leverages AI to provi
 - **Flight Integration**: Seamless integration with flight booking systems
 - **User Authentication**: Secure login and signup functionality
 
-## 🚀 Demo
-
-<!-- Add screenshots or GIF demos here -->
-
-![Homepage](./docs/images/homepage-screenshot.png)
-_Clean and intuitive homepage design_
-
-![Search Interface](./docs/images/search-interface.png)
-_Preference-based search interface_
-
-![Results Page](./docs/images/results-page.png)
-_AI-generated travel recommendations_
-
 ## 🛠️ Technologies Used
 
 - **Frontend**: React 18.2.0
@@ -144,31 +131,6 @@ const openai = new OpenAI({
 });
 ```
 
-## 🌟 Screenshots
-
-### Homepage
-
-<!-- Add your homepage screenshot here -->
-
-![Homepage](./docs/images/homepage.png)
-
-### Search Interface
-
-<!-- Add your search page screenshot here -->
-
-![Search Page](./docs/images/search.png)
-
-### Results Display
-
-<!-- Add your results page screenshot here -->
-
-![Results Page](./docs/images/results.png)
-
-### Mobile Responsive
-
-<!-- Add mobile screenshots here -->
-
-![Mobile View](./docs/images/mobile.png)
 
 ## 🙏 Acknowledgments
 
@@ -178,7 +140,5 @@ const openai = new OpenAI({
 - All contributors who have helped improve this project
 
 ---
-
-**Made with ❤️ by Het Koradia**
 
 [⬆ Back to top](#-aeroadvice---ai-powered-travel-planning-platform)
